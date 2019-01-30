@@ -55,6 +55,9 @@
                                         </imageView>
                                     </subviews>
                                 </view>
+                                <connections>
+                                    <outlet property="imageView" destination="7KL-JC-Iby" id="WbQ-au-NIb"/>
+                                </connections>
                             </collectionViewCell>
                         </cells>
                         <connections>
